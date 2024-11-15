@@ -1,0 +1,1 @@
+gcc uber.c _clnt.c _xdr.c -I/usr/include/tirpc -ltirpc -o server/client

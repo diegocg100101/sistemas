@@ -1,0 +1,9 @@
+# ninja log v6
+2	76	1730683095355267656	CMakeFiles/Sistemas_distribuidos.dir/practica1/prueba.c.o	5c2896ad9766b0ac
+5	80	1730683095358267665	CMakeFiles/Sistemas_distribuidos.dir/ejemplo_codificar.c.o	f1093d9edd22d20
+3	103	1730683095356267659	CMakeFiles/Sistemas_distribuidos.dir/practica1/servidor.c.o	a43b480985ccd091
+4	109	1730683095357267662	CMakeFiles/Sistemas_distribuidos.dir/clienteTCP.c.o	2e69c18503859e88
+1	109	1730683095354267653	CMakeFiles/Sistemas_distribuidos.dir/practica1/cliente.c.o	7ad178990d10e09e
+3	111	1730683095356267659	CMakeFiles/Sistemas_distribuidos.dir/cliente.c.o	d3b11e7a1a90be00
+76	162	1730683095429267869	CMakeFiles/Sistemas_distribuidos.dir/servidor.c.o	9fdae50a85bbcd3f
+80	170	1730683095433267880	CMakeFiles/Sistemas_distribuidos.dir/servidorTCP.c.o	fd507ea66de68e9e
